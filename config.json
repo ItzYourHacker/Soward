@@ -1,0 +1,2446 @@
+{
+    "guilds": {
+        "1009024894417244242": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "none"
+        },
+        "1004028585583063160": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [
+                "1018139793789563000",
+                "1028636712676638751"
+            ],
+            "punishment": "kick"
+        },
+        "966153072957075537": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1031259605600313484": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "934471437383761990": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "949989024150474783": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [
+                "723802934378233897",
+                "878005505010860112",
+                "980441852413095936",
+                "992137616533246002",
+                "1002306056279572561"
+            ],
+            "punishment": "ban"
+        },
+        "1022908952234688664": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "110373943822540800": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "938204823046717470": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "597306404121870339": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1015125929632215131": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [
+                "930352827027562517",
+                "1018139793789563000",
+                "825617171589759006"
+            ],
+            "punishment": "ban"
+        },
+        "985967926123311166": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1003974994260410449": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1021491123241357355": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "819434257348558850": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "909443507821903943": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "998062196422615070": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "972929460879888464": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "834112382057054299": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "777274293737881622": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "973579632735555584": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1027594173769056347": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "976453216336232468": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "965626878725595217": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "603412442755760160": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1023258931222560778": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [
+                "825617171589759006",
+                "856741116912861276",
+                "651095740390834176",
+                "240254129333731328",
+                "235148962103951360",
+                "536991182035746816",
+                "926978594301935637",
+                "852919423018598430"
+            ],
+            "punishment": "ban"
+        },
+        "1009886862883684402": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "727231426545844344": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1030797090487545867": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "974918528538931200": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "933023939733643334": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1002916371325272154": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1000762122139082772": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "997141571159998625": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1001006343836147722": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1025714911931797504": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1000140292403495032": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "875031901172269118": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "966955317420236800": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1006150121416830987": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "971764769734426655": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "935488745866674256": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "972142466952208424": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "976162828933292032": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "660784216568496140": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1013154885463711755": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1007559908306206731": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "833298261229830184": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "898630944615989268": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "939027373125419029": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "991310342405754890": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "997469522212692040": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "945346234049237004": {
+            "antiSpam": false,
+            "antiLink": false,
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "757017684989968384": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1009397978701766667": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "961612767033442354": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "991195704112459837": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "607570903269638154": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "985973862216925215": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "992329855557439528": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "915982518333890621": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "849263035175534602": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1009321953686994994": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "972746998111408138": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "956558459208339456": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "985050495888535582": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "998599024846319637": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "744840668639264869": {
+            "whitelisted": [
+                "536991182035746816",
+                "651095740390834176",
+                "856741116912861276",
+                "436515089441488907",
+                "825617171589759006",
+                "458276816071950337",
+                "709685650198233108",
+                "959150357743808562",
+                "728167286841671742",
+                "235148962103951360"
+            ],
+            "punishment": "ban"
+        },
+        "1025284770780946432": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "947438625614889060": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "961357262545379429": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "853967114163716126": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "985140242707255346": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1004282220640485407": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1024063705496961115": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1023549483675549726": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "808187666385993778": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1023590510079791186": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "722070678962045068": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1031107694947483791": {
+            "whitelisted": [
+                "1017112169550184498",
+                "949942648343502908",
+                "825617171589759006",
+                "493716749342998541",
+                "993770761129041961",
+                "950023159564861500",
+                "980050127744040971"
+            ],
+            "punishment": "kick"
+        },
+        "1024298650735738911": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "826798907861630977": {
+            "whitelisted": [
+                "715621848489918495"
+            ],
+            "punishment": "ban"
+        },
+        "942387938451423312": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "982716526769614919": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "904059350572757003": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1015842435340963871": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "786889267409453057": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "538361750651797504": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "991985967885991998": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "753211216117104660": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "928213446368047134": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "980767175021330474": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "827514362662879242": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "981178718322065440": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "956414181937127434": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "949480534780813332": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "622823183229255701": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1006116905997836308": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "978751944095064155": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1003327394305806396": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "990603931258322954": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "982559491914604555": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "748136663515136041": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "947900819129397348": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "735903380139933838": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "738509892704403579": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "987721449383026749": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1030761576346693733": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "967485449557913763": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "793926948921278474": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "857842379755094067": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1000648153453822022": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "884138858650931250": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1005030374470070362": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "728181502713659443": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "877837063532191775": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "894214768896905277": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1027212188848488509": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "984253767031619664": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "938692984705269791": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1011640118114787430": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "977148072482209862": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "972149251570298890": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "861984569929760789": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014141001746632705": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "963722274647707678": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "846883824885563442": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "703967135961055314": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "971796284329558027": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1005057983715225680": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "985779443576483840": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "975876203544195093": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "877276106745593926": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1024352228049436732": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1004857743737356301": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1010075255777271828": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1030884931754283019": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1010531336240500806": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "986982756699504651": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "908299536399757322": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "981440310771089438": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "991924767982633021": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1005511863733334137": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "979463415909208114": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "971142371100217364": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1023470609214214254": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "862400507561771069": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1006564750613815311": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1030772987697311794": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "987778938908594226": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "982180221719572520": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "994343489586335887": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "971823165351280685": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "948172808645668875": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "835976804534845500": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "962778822967717959": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "982678875010129940": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "914049322063110176": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "853671224588238928": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "989847441366999100": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "831906414238236683": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "849682337079754784": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "980466269490929715": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "995908528168501389": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1009582162502230126": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1025671416886087710": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "787298889325084704": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1017070994545975299": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "908048894640926831": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "935370403516395531": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1008611370377420910": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "921104887234854962": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "983653447515656244": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "946307290099761193": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "734418473580494869": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "763329180955836418": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "812013909250539541": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "917648064322355211": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1026509082120700014": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "931182019147358229": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "981517380566016061": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "949365095174127666": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1028342027680755712": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1016677350810853526": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1017741702850695261": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "877617418380398633": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1012032251392950442": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "976898848133902346": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014131992868175882": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "977581400557490197": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "945735145946746940": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1031621116768305183": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "980526481941864498": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "820973190356271135": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1010609513486885124": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "984989803164614717": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "779295567884976158": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "884380538268450836": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "868429564114776087": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1011133015377842186": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "972123309070237716": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014550537414389831": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "903657698481045504": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1005443670562062456": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "951609336675835984": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "906913142049755177": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1028265573601267822": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "993003803743883354": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1018523303289303130": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "979278313119952946": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "998191728299360306": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "835392798474633266": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "564879051156881423": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "968134412220903464": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "999994779184140308": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1004027352088588348": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "952680763139182702": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "869532581140508692": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "896462370577190952": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1017411837731536896": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "956372389090963506": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "704310641397334076": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "923895370289934336": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1008722443214524516": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "980758979581980693": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1007155057273356318": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "964829953839480942": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "937359904426049708": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "956292072565014548": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1005030253439238185": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "938486846453854290": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "968073945561579521": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "759231988179402752": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "893727172617977896": {
+            "whitelisted": [
+                "922126304327905300",
+                "1018139793789563000",
+                "1011988758649905172",
+                "950423186951000155",
+                "912304652597485579"
+            ],
+            "punishment": "ban"
+        },
+        "918074824792887326": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1003255563607613490": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "792787867298431016": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1012021775082717224": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "847136348410216498": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1024310396473065553": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "828539038561730590": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "850070688936230992": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1019968143214518392": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "978538355002335262": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "985450476772417647": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "883306197615271986": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "929345582689034250": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1006436771854295100": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "992842520222502942": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "997109182845169685": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "976425632961548308": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1002622260399579267": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "871680286465855490": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "886170225941286913": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1007753944832946247": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "960281078898249729": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "933406719189606480": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "814958323072892978": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032198652279672873": {
+            "whitelisted": [],
+            "punishment": "kick"
+        },
+        "1023438498210000926": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "985770016681103381": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "850273816794234920": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "996683061972434954": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1009423044063789057": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "870528607192248340": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "998823335246966794": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014461250756939786": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "839423192698978334": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1019262566704353483": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "888855002238558229": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1019728637177626664": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "953157083782606848": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1006881946296651906": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "993464032134705163": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1012065930152530083": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "823837872401940511": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "931171889685073941": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "753422063141781554": {
+            "whitelisted": [
+                "931943012433551360",
+                "907812589306773524",
+                "842736732789014559",
+                "964546135576436776",
+                "775051091637174272",
+                "980272185748897842",
+                "878860063882756146",
+                "823016654833188975",
+                "825617171589759006",
+                "464109113023135764"
+            ],
+            "punishment": "ban"
+        },
+        "997612987118526556": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1019573486680821810": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709011201593414": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709013583966228": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709067879219373": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709004952076458": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709070966243369": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709072643956746": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709008416591984": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709012346646679": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709136137334784": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709131573932173": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709194916306964": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709198569541642": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709134346354760": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709196279463998": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709197315457064": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709260028682260": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709260980785184": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709325937967105": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709324704850002": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709384737919028": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709262587216012": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709386537271316": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709323194904656": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709388848349305": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709387321618534": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709538769551442": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709540866691244": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710175582343279": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709542003363921": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709605177954365": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709540078174329": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709543626559519": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709604020322395": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710172289810473": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709733506879488": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709389930475661": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709667283021904": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709665479479366": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710050747273319": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710049799352472": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709984938639380": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709982354952202": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709861957455942": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709859029827704": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709734815510599": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709728649879663": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709607543541821": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709602275491922": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710173678121101": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710112420298764": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710110159568967": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710047253414048": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709918970626211": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709855665983568": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709792088723517": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709730113683527": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709606071353384": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709666209284168": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710109022929027": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710045802172446": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709860665589790": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709798615064576": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709668151242753": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710116371349575": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709987161604168": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709985974628392": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709922028277843": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709668948164620": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710111254298654": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032710048771735642": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709983193792522": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709923294957618": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709921034223616": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709800565420092": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709795884580884": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709731594285077": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709919960485929": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709856844595350": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032709793703542865": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1020815693823873036": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "922710951969579019": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "938931416945811496": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1023996320299630642": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1018155256573599794": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032926973271474226": {
+            "whitelisted": [
+                "747456133144379475",
+                "747265521384292393",
+                "912304652597485579"
+            ],
+            "punishment": "kick"
+        },
+        "1008724169615224942": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "973132569619071026": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1011686749837217853": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014178039845888101": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1009900710055387260": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "947824843582234638": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1012019145325432877": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "758406272965541909": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1006786137139970098": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1033300051268730990": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1033316647945121832": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "984141490198573157": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1033272492510416957": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1025739626939432991": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "997120773833633803": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1026489780105658418": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1033378174295359568": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1029759352292253716": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "811483726679900163": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "995618486619488256": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1003249021042835497": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1005446471602143282": {
+            "whitelisted": [
+                "974337800520487002",
+                "715621848489918495",
+                "825617171589759006",
+                "881922237903548517",
+                "155149108183695360",
+                "474850718591877121",
+                "678344927997853742",
+                "316964825517260800",
+                "1012665558845624420"
+            ],
+            "punishment": "ban"
+        },
+        "1000699476148760587": {
+            "whitelisted": [
+                "956115537681858570",
+                "235148962103951360",
+                "1010087794422591498",
+                "982117921096597505",
+                "536991182035746816",
+                "651095740390834176",
+                "825617171589759006",
+                "997160874206826587",
+                "852919423018598430",
+                "875038525144305725"
+            ],
+            "punishment": "ban"
+        },
+        "956475021247778817": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1030815402881716274": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032275471448154132": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1009718673373667419": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "958772235517173790": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1016006038509596723": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "996596514426200165": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1020428197713674240": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1003930883117555762": {
+            "whitelisted": [
+                "806775082939842570"
+            ],
+            "punishment": "ban"
+        },
+        "987583919224422451": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1027573826671886416": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014843122271920188": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1028570092767817758": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1033479053929353387": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "904584834041675776": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014894029281968148": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1006071570873196594": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "970911578897653760": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1018846004814032917": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032176393125122118": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "895329015752163418": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1034877230863618108": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1034877635068694528": {
+            "whitelisted": [
+                "997160874206826587"
+            ],
+            "punishment": "ban"
+        },
+        "950405326421778483": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "859054465859190814": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1002871094031695973": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "994157727939055627": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1035019748737560667": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "979011329065091093": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1002872149817696366": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "998256052065796116": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1035375892005928990": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1021346420827111455": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1025417374125535322": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "881862335600418897": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014394022531448832": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1025238155001081926": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1020301973070815324": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014429163286958100": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1034396894086041631": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "970569747315974194": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "988045261119037532": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1033231856885317643": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1035842542207508500": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1035239360498515979": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1033691460572287066": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1012242200291184711": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1000840186323816559": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "746995580936650853": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1006621309746299021": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "935649624960692274": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1036347590612090991": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1036250307493105685": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "942078454101327872": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1009062439305879562": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1021719730538684417": {
+            "whitelisted": [
+                "536991182035746816",
+                "651095740390834176",
+                "825617171589759006",
+                "926978594301935637",
+                "907812589306773524",
+                "1012665558845624420",
+                "926128441760309279",
+                "984762091825160232"
+            ],
+            "punishment": "ban"
+        },
+        "994890885873553448": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1019964100584931348": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1001930670001635470": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1013092232368226304": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1012834122688909414": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "969139795022471198": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "986117803901866095": {
+            "whitelisted": [
+                "1018139793789563000",
+                "536991182035746816",
+                "825617171589759006",
+                "651095740390834176",
+                "824119071556763668",
+                "979742287087165480",
+                "880765863953858601",
+                "997866867421102090",
+                "986165037112655912",
+                "856741116912861276"
+            ],
+            "punishment": "ban"
+        },
+        "1036599053863096402": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1036458069892284446": {
+            "whitelisted": [
+                "824119071556763668",
+                "1027428088562319391"
+            ],
+            "punishment": "ban"
+        },
+        "958391199734071368": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1019452359052627988": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1021818065991770173": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1029425764308897812": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1003934911809462292": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1029927921936240711": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1024316669830631424": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032949809058943026": {
+            "whitelisted": [
+                "996032375047860254",
+                "802049726404493312",
+                "960015423481450506",
+                "974368889888727050"
+            ],
+            "punishment": "ban"
+        },
+        "1012895866371199006": {
+            "whitelisted": [
+                "825617171589759006"
+            ],
+            "punishment": "kick"
+        },
+        "1036860341050691654": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "903989846836658226": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1036882760826101810": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1024745626421973072": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1033781885337337886": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "955063929552396319": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "941806538987802684": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "993843766874083450": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1036517139395379200": {
+            "whitelisted": [
+                "564878303475924996",
+                "919538751452119040"
+            ],
+            "punishment": "ban"
+        },
+        "1037989930632232990": {
+            "whitelisted": [
+                "1018139793789563000",
+                "1004248513435152484"
+            ],
+            "punishment": "kick"
+        },
+        "990918914068344862": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "924919984105336893": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1030853744931385455": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "829705699398778900": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1026794849606832159": {
+            "whitelisted": [
+                "1033649908944748575",
+                "235148962103951360",
+                "155149108183695360",
+                "825617171589759006",
+                "294882584201003009",
+                "907812589306773524",
+                "990232541497811005",
+                "458276816071950337"
+            ],
+            "punishment": "ban"
+        },
+        "1038157988709535836": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1020938601955086387": {
+            "whitelisted": [
+                "965584792454303774",
+                "980272185748897842",
+                "831425388210159637",
+                "235148962103951360",
+                "270904126974590976",
+                "159985870458322944",
+                "155149108183695360",
+                "899899858981371935",
+                "825617171589759006",
+                "276060004262477825"
+            ],
+            "punishment": "ban"
+        },
+        "877237991985262682": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1028520937198473316": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "895376112887156818": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1036998369110937620": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "955663527899697202": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1029697295496773662": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "827804745673867264": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1014472797810081863": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1027982197128450048": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "976797833187442729": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "995190590025252934": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1029615571932815431": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1035467968773107714": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1025305471508283452": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "901844909617725511": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "748534772015300688": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "965922242582151229": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032339734325887057": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1027429071426170940": {
+            "whitelisted": [
+                "740519451140685856",
+                "887355964519514163",
+                "740906227294273547",
+                "923895594458705971",
+                "825617171589759006",
+                "536991182035746816",
+                "724653171368263730"
+            ],
+            "punishment": "kick"
+        },
+        "1015673380130803712": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "847690879477219338": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "829432820585463839": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "978337224124944475": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1016692507939192933": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1036613047667671072": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "998947506203414569": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1018197913601585172": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1039533516167323730": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1017436985725558874": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1029494891421642903": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "682571010155085890": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1039762832654336041": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "879353369163096115": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1039816434789908544": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1037219758610841600": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1039962713859817583": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1039799380573700136": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1040295502287216660": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1035764266533400587": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1025691380254769203": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1040640599046492200": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1040569744580935731": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1040341644500811896": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1040613415477063841": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1037689164285607976": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1035830797954990121": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1040328616401174599": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1005531094873022556": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1022022247046717461": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "964545811222519828": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1002227566205214861": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "861159603139510292": {
+            "whitelisted": [
+                "536991182035746816",
+                "651095740390834176"
+            ],
+            "punishment": "ban"
+        },
+        "992848294638264411": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "829266240572620831": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1011231538714775633": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1017347269424599140": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1023257189546213497": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "392315660690128899": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "620048261251858433": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1032673669715066920": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1042067478731309106": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "917264666525302816": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1040212254085369907": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "996137339715866635": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1039260716106006569": {
+            "whitelisted": [],
+            "punishment": "ban"
+        },
+        "1004357491246764142": {
+            "whitelisted": [],
+            "punishment": "ban"
+        }
+    }
+}
